@@ -5,14 +5,14 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 import com.example.app.data.dao.converters.BloomTimeConverter
 import com.example.app.data.dao.converters.PlantTypeConverter
-import com.example.app.data.dao.PlantDao
-import com.example.app.data.dao.models.Plant
+import com.example.app.data.dao.PerfumeDao
+import com.example.app.data.dao.models.Perfume
 
 @Database(
-    entities = [Plant::class],
-    version = 3
+    entities = [Perfume::class],
+    version = 4
 )
 @TypeConverters(PlantTypeConverter::class, BloomTimeConverter::class)
 abstract class PlantDatabase: RoomDatabase() {
-    abstract val plantDao: PlantDao
+    abstract val perfumeDao: PerfumeDao
 }

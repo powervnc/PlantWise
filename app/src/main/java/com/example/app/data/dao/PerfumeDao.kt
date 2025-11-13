@@ -35,7 +35,7 @@ interface PlantDao {
     @Query("Select * from plant where type = :typePlant order by name asc")
     fun getPlantsByType(typePlant: String): Flow<List<Plant>>
 
-    @Query("Select * from plant where bloomTime = :bloomTime order by name asc")
+    @Query("Select * from plant where scentStrength = :bloomTime order by name asc")
     fun getPlantsByBloomTime(bloomTime: String): Flow<List<Plant>>
 
 

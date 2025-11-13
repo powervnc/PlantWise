@@ -1,7 +1,7 @@
 package com.example.app.ui.screens
 
 import androidx.compose.runtime.Composable
-import com.example.app.data.dao.models.Plant
+import com.example.app.data.dao.models.Perfume
 
 
 import androidx.compose.foundation.layout.Column
@@ -18,19 +18,15 @@ fun AddEditPlantScreen(
     subText: String,
     buttonText: String,
     modifier: Modifier = Modifier,
-    onSubmit: (Plant) -> Unit,
-    existingPlant: Plant? = null
+    onSubmit: (Perfume) -> Unit,
+    existingPerfume: Perfume? = null
 ) {
 
 
     Column(modifier.fillMaxSize()
         , horizontalAlignment = Alignment.CenterHorizontally) {
-        CustomForm(onSubmit = onSubmit, existingPlant = existingPlant, buttonText = buttonText)
+        CustomForm(onSubmit = onSubmit, existingPerfume = existingPerfume, buttonText = buttonText)
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun PreviewAddEditPlantScreen(){
-    AddEditPlantScreen(text="Edit Begonia", subText = "edit your favourite flowrs", buttonText = "text", onSubmit = {})
-}
+
