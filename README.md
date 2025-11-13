@@ -1,10 +1,10 @@
-# PlantWise 🌱
+# PlantWise
 
 PlantWise is an Android app made for anyone who loves plants. Whether you’re a hobbyist or just curious about the green world around you, PlantWise helps you **browse, search, and discover plants**.
 
 ---
 
-## 🌸 Key Features
+## Key Features
 
 - **Plant Catalog:** Explore a wide variety of plants with images and descriptions.  
 - **Search:** Quickly find plants by name.  
@@ -18,7 +18,7 @@ PlantWise is an Android app made for anyone who loves plants. Whether you’re a
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - **Kotlin** — Primary language  
 - **Android Jetpack Components**:  
@@ -30,7 +30,7 @@ PlantWise is an Android app made for anyone who loves plants. Whether you’re a
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
