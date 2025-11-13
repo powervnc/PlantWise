@@ -1,44 +1,72 @@
-# PlantWise
+# Eorume
 
-PlantWise is an Android app made for anyone who loves plants. Whether you’re a hobbyist or just curious about the green world around you, PlantWise helps you **browse, search, and discover plants**.
+Eorume is an Android app made for anyone who loves perfumes. Whether you’re a collector, enthusiast, or simply curious about the world of fragrance, Eorume helps you **browse, search, and discover perfumes**.
 
 ---
 
 ## Key Features
 
-- **Plant Catalog:** Explore a wide variety of plants with images and descriptions.  
-- **Search:** Quickly find plants by name.  
+- **Perfume Catalog:** Explore a wide range of perfumes with images and detailed descriptions.  
+- **Search:** Quickly find perfumes by name or brand.  
 - **Advanced Filtering:** Narrow down your search by:
-  - **Bloom Time:** WINTER, SPRING, SUMMER, AUTUMN, VARIES
-  - **Plant Type:** ANNUALS, PERENNIALS, BIENNIALS
-- **Favorites:** Mark plants you love and access them easily anytime.  
-- **Offline-First:** Works completely without internet.
-- **Modern Architecture:** Uses **MVVM** and **Hilt** for clean, maintainable, and testable code.  
+  - **Scent Strength:** LIGHT, MODERATE, STRONG  
+  - **Fragrance Family:** FLORAL, FRUITY, WOODY, ORIENTAL, FRESH  
+- **Favorites:** Mark perfumes you love.  
+- **Offline-First:** Works completely without internet.  
+- **Modern Architecture:** Uses **MVVM** and **Hilt** 
 - **Smooth UI:**
 
 ---
 
-<img width="381" height="838" alt="image" src="https://github.com/user-attachments/assets/69e90fab-fc4b-4927-98d9-6109ce4d7653" />
-<img width="381" height="838" alt="image" src="https://github.com/user-attachments/assets/885fc800-7a0e-40b2-9835-0e2d56899af8" />
+<img width="381" height="838" alt="image1" src="https://github.com/user-attachments/assets/69e90fab-fc4b-4927-98d9-6109ce4d7653" />
+<img width="381" height="838" alt="image2" src="https://github.com/user-attachments/assets/885fc800-7a0e-40b2-9835-0e2d56899af8" />
 
-<img width="382" height="854" alt="image" src="https://github.com/user-attachments/assets/d736f1be-469b-4c0a-9454-ba2ef6e792ec" /> 
+<img width="382" height="854" alt="image3" src="https://github.com/user-attachments/assets/d736f1be-469b-4c0a-9454-ba2ef6e792ec" /> 
 
-<img width="381" height="838" alt="image" src="https://github.com/user-attachments/assets/e932ccc3-2d9e-486c-bf9e-868cca6bddcb" />
+<img width="381" height="838" alt="image4" src="https://github.com/user-attachments/assets/e932ccc3-2d9e-486c-bf9e-868cca6bddcb" />
 
-<img width="391" height="838" alt="image" src="https://github.com/user-attachments/assets/e1bfdf29-f3fe-4a36-8737-fccb750524f7" />
+<img width="391" height="838" alt="image5" src="https://github.com/user-attachments/assets/e1bfdf29-f3fe-4a36-8737-fccb750524f7" />
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="image-1.png" alt="Browse Perfumes (Online Mode)" width="300"><br>
+      <sub>Browse Perfumes (Online Mode)</sub>
+    </td>
+    <td align="center"> 
+      <img src="image-2.png" alt="Browse Perfumes (Offline Mode)" width="300"><br>
+      <sub>Browse Perfumes (Offline Mode)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="image-3.png" alt="Add Perfume" width="300"><br>
+      <sub>Add Perfume</sub>
+    </td>
+    <td align="center">
+      <img src="image-4.png" alt="Edit Perfume" width="300"><br>
+      <sub>Edit Perfume</sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" colspan="2">
+      <img src="image-5.png" alt="Delete Perfume" width="300"><br>
+      <sub>Delete Perfume</sub>
+    </td>
+  </tr>
+</table>
 
-
+---
 
 ## Built With
 
 - **Kotlin** — Primary language  
 - **Android Jetpack Components**:  
-  - **Hilt** : dependency Injection  
+  - **Hilt** : dependency injection  
   - **Room**: offline local storage  
-  - **ViewModel & LiveData / StateFlow**
-  - **Navigation Component**
-- **Coroutines** — For asynchronous tasks 
+  - **ViewModel & LiveData / StateFlow**  
+  - **Navigation Component**  
+- **Coroutines** — For asynchronous operations  
 
 ---
 
@@ -55,4 +83,4 @@ PlantWise is an Android app made for anyone who loves plants. Whether you’re a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/powervnc/PlantWise.git
+git clone https://github.com/powervnc/Eorume.git
