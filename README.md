@@ -34,23 +34,23 @@ Eorume is an Android app made for anyone who loves perfumes. Whether you’re a 
       <sub>Perfume Collection</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/885fc800-7a0e-40b2-9835-0e2d56899af8" alt="Search Perfumes" width="300"><br>
+      <img src="https://github.com/user-attachments/assets/885fc800-7a0e-40b2-9835-0e2d56899af8" alt="Filter Perfumes" width="300"><br>
       <sub>Search Perfumes</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d736f1be-469b-4c0a-9454-ba2ef6e792ec" alt="Add Perfume" width="300"><br>
+      <img src="https://github.com/user-attachments/assets/d736f1be-469b-4c0a-9454-ba2ef6e792ec" alt="Favoruite Perfume" width="300"><br>
       <sub>Add Perfume</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e932ccc3-2d9e-486c-bf9e-868cca6bddcb" alt="View Perfume Details" width="300"><br>
+      <img src="https://github.com/user-attachments/assets/e932ccc3-2d9e-486c-bf9e-868cca6bddcb" alt="Add Perfume (Similar with Edit Perfume)" width="300"><br>
       <sub>View Perfume Details</sub>
     </td>
   </tr>
   <tr align="center">
     <td align="center" colspan="2">
-      <img src="https://github.com/user-attachments/assets/e1bfdf29-f3fe-4a36-8737-fccb750524f7" alt="Favorite Perfumes" width="300"><br>
+      <img src="https://github.com/user-attachments/assets/e1bfdf29-f3fe-4a36-8737-fccb750524f7" alt="Add Errors" width="300"><br>
       <sub>Favorite Perfumes</sub>
     </td>
   </tr>
