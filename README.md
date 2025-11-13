@@ -18,6 +18,15 @@ PlantWise is an Android app made for anyone who loves plants. Whether you’re a
 
 ---
 
+
+<img width="382" height="830" alt="image" src="https://github.com/user-attachments/assets/e932ccc3-2d9e-486c-bf9e-868cca6bddcb" />
+
+
+<img width="391" height="838" alt="image" src="https://github.com/user-attachments/assets/e1bfdf29-f3fe-4a36-8737-fccb750524f7" />
+
+
+
+
 ## Built With
 
 - **Kotlin** — Primary language  
